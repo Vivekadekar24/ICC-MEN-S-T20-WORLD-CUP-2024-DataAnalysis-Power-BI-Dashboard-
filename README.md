@@ -100,9 +100,9 @@ Venue and pitch conclusions should be treated cautiously because historical perf
 
 ## Repository Contents
 
-- `dashboard/` — Power BI `.pbix` report
-- `data/` — Cleaned dataset used in the analysis
-- `screenshots/` — Images of the dashboard pages
+- Power BIreport
+- Cleaned dataset used in the analysis
+- Images of the dashboard pages
 
 ## Project Outcome
 
